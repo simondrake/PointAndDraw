@@ -9,6 +9,14 @@ It was primarily created as an introduction into iOS development, and to give my
 
 ## Screenshots
 
+### Home Screen
+
+![Home Screen](./assets/images/screenshots/home-screen.png)
+
+### Game Screen
+
+![Game Screen](./assets/images/screenshots/game-screen.png)
+
 ## License
 
 You can use this software under the terms and conditions of the MIT License.
